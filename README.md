@@ -1,4 +1,4 @@
-# Java-Asteroids
+# Java_Asteroids
 A custom Asteroids game.
 
-Built as a Java Applet. Open in an IDE and run Asteroids file.
+Built as a Java Applet. Open in an IDE and run the "Asteroids" file.
